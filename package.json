@@ -1,6 +1,6 @@
 {
   "name": "amqplib-rabbitmq",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "williamsouzaa",
   "main": "index.js",
   "description": "A little lib to control rabbitMq using amqplib",
@@ -8,5 +8,14 @@
   "dependencies": {
     "amqplib": "^0.5.5",
     "uuid": "^3.3.3"
-  }
+  },
+  "keywords": [
+    "amqplib",
+    "amqp",
+    "rabbitmq",
+    "mqtt",
+    "mq",
+    "amqplib-rabbitmq",
+    "rabbit-mq"
+  ]
 }
