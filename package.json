@@ -1,0 +1,12 @@
+{
+  "name": "amqplib-rabbitmq",
+  "version": "1.0.1",
+  "author": "williamsouzaa",
+  "main": "index.js",
+  "description": "A little lib to control rabbitMq using amqplib",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "uuid": "^3.3.3"
+  }
+}
